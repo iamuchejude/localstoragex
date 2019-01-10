@@ -1,0 +1,2 @@
+# localstoragex
+Lightweight localStorage helper
